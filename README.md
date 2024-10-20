@@ -1,5 +1,5 @@
 # Joey Soroka
-Computer Science, BC Bellevue
+Computer Science, Bellevue College
 <br>
 1-(425)-996-2135 | joeysoroka@outlook.com
 
@@ -41,3 +41,8 @@ Computer Science, BC Bellevue
 *  **Skills:** MASM
 
 ## Journey
+My first experience to programming was in 2018, when I was in middle school. I used JS and html to write simple websites and Scratch to write programs for **_Minecraft education edition_**. In the same year, I started tinkering with bios options inside my computer, and nearly bricked it on several occasions when messing with my RAMs voltage. 
+
+This initial exposure to technology and the underlying hardware is what led to my decision my freshman year of high school to take *Intro to Computer Programming.* A class in C++ that started at loops, and ended at classes. With us making an RPG throughout the entirety of the year. (mine ended up around 3000 loc and was pretty bad :)) The year after I decided to take *AP CS*. While I knew I wanted to work in tech somewhere, it was my year in this class that really cemented my desire to work in Computer Science itself.
+
+During this year I learned Java, Recursion, OOP, Unity, and C#. Towards the end of the year I fell in love with optimization, something about optimizing for cache lines, multi-threading, and SIMD really got to me. So, the next year I took *Game & App Development* and enrolled to Bellevue College through the Running Start program. This year I would pivot more towards C++ and physics simulations.
