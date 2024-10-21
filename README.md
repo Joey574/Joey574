@@ -1,7 +1,7 @@
 # Joey Soroka
 Computer Science, Bellevue College
 <br>
-📞 1-(425)-996-2135 | ✉️ joeysoroka@outlook.com
+1-(425)-996-2135 | joeysoroka@outlook.com
 
 ## Education
 ### Cedarcrest High School
