@@ -17,7 +17,7 @@ Computer Science, Bellevue College
 #### [Game Of Life in Unity](https://github.com/Joey574/GameOfLifeInUnity) | **Conways Game of Life Simulation**
 * A game written in C# and making use of hlsl in Unity to simulate conway's game of life
 * Includes various other spinoffs of conway's game of life, like wireworld, highlife, and several others
-* **Skills:** C#, hlsl, Unity, Data Structes, Algorithms
+* **Skills:** C#, hlsl, Unity, Game Design, Data Structes, Algorithms
 
 // TODO: attach gif
 
@@ -38,7 +38,7 @@ The equation for ZH-L16 is as follows:
 
 #### [Machine-Learning Cpp](https://github.com/Joey574/MachineLearningCpp) | **Various Neural Network frameworks from scratch**
 * Includes various NN frameworks, datasets, and other related projects
-*  **Skills:** C++, Cuda, SIMD, Multi-Threading, Data Structures, Algorithms, Linear-Algebra
+*  **Skills:** C++, Cuda, SIMD, Multi-Threading, Data Structures, Algorithms, Linear-Algebra, Machine Learning, AI
 
 // TODO: embed learning gif
 
