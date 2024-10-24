@@ -10,13 +10,14 @@ Computer Science, Bellevue College
 
 ## Skills
 * **Languages:** C/C++, CUDA, Python, C#, Java, Js, MASM
-* **Libraries:** OpenGL
+* **Libraries:** OpenGL, Tensorflow, Pandas
 * **Game Engines:** Unity, Unreal
+* **Concepts:** Machine Learning, Data Structures, Algorithms, Game Design
 
 ## Projects
 #### [Game Of Life in Unity](https://github.com/Joey574/GameOfLifeInUnity) | **Conways Game of Life Simulation**
 * A game written in C# and making use of hlsl in Unity to simulate conway's game of life
-* Includes various other spinoffs of conway's game of life, like wireworld, highlife, and several others
+* Includes various other spinoffs of conway's game of life, like wireworld, highlife, and many others
 * **Skills:** C#, hlsl, Unity, Game Design, Data Structes, Algorithms
 
 // TODO: attach gif
@@ -38,19 +39,29 @@ The equation for ZH-L16 is as follows:
 
 #### [Machine-Learning Cpp](https://github.com/Joey574/MachineLearningCpp) | **Various Neural Network frameworks from scratch**
 * Includes various NN frameworks, datasets, and other related projects
-*  **Skills:** C++, Cuda, SIMD, Multi-Threading, Data Structures, Algorithms, Linear-Algebra, Machine Learning, AI
+*  **Skills:** C++, CUDA, SIMD, Multi-Threading, Data Structures, Algorithms, Linear-Algebra, Machine Learning, AI
 
 // TODO: embed learning gif
 
 #### [OpenGL Projects](https://github.com/Joey574/OpenglProjects) | **Various OpenGL Projects**
 * Includes various OpenGL projects
-*  **Skills:** C++, Game Design, SIMD, Multi-Threading, Linear-Algebra, Math
+  * 2D Games
+  * Realtime Fractal rendering
+*  **Skills:** C++, Algorithms, Game Design, SIMD, Multi-Threading, Linear-Algebra, Math
 
 // TODO: more gif
 
-#### [Learning MASM](https://github.com/Joey574/LearningMASM) | **Various beginner MASM projects**
+#### [Learning MASM](https://github.com/Joey574/LearningMASM) | **Various Beginner MASM Projects**
 * Includes various beginner/intermediate MASM projects
 * Most projects are beginner focused, however, intermediate concepts like self-modifying code are also included
 *  **Skills:** MASM
+
+#### [Cpp Advanced Projects](https://github.com/Joey574/Cpp-Advanced-Projects) | **Various C++ Projects**
+* This is more of a general repo containing
+  * Sorting Algorithms
+  * Matrix multiplication
+  * Multi-Threading
+  * 2D Games
+* **Skills:** C++, Algorithms, Game Design, SIMD, Multi-Threading, Data Structures 
 
 // No one wants to visualize this
