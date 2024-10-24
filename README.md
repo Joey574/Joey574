@@ -63,5 +63,3 @@ The equation for ZH-L16 is as follows:
   * Multi-Threading
   * 2D Games
 * **Skills:** C++, Algorithms, Game Design, SIMD, Multi-Threading, Data Structures 
-
-// No one wants to visualize this
