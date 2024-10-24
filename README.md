@@ -51,6 +51,9 @@ The equation for ZH-L16 is as follows:
 
 // TODO: more gif
 
+## Notable Repos
+While not really singular projects I ever plan on 'releasing' there are some more repos I believe demonstrate my skills / ability well.
+
 #### [Learning MASM](https://github.com/Joey574/LearningMASM) | **Various Beginner MASM Projects**
 * Includes various beginner/intermediate MASM projects
 * Most projects are beginner focused, however, intermediate concepts like self-modifying code are also included
@@ -62,4 +65,4 @@ The equation for ZH-L16 is as follows:
   * Matrix multiplication
   * Multi-Threading
   * 2D Games
-* **Skills:** C++, Algorithms, Game Design, SIMD, Multi-Threading, Data Structures 
+* **Skills:** C++, Algorithms, Game Design, SIMD, Multi-Threading, Data Structures
