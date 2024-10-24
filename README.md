@@ -37,8 +37,8 @@ The equation for ZH-L16 is as follows:
 <br>
 **P = Pio + R(t - 1/k) - (Pio - Po - (R/k)) e<sup>-kt</sup>**
 
-#### [Machine-Learning Cpp](https://github.com/Joey574/MachineLearningCpp) | **Various Neural Network frameworks from scratch**
-* Includes various NN frameworks, datasets, and other related projects
+#### [Machine-Learning Cpp](https://github.com/Joey574/MachineLearningCpp) | **Various Neural Network Frameworks**
+* Includes various NN frameworks written from scratch, datasets, and other related projects
 *  **Skills:** C++, CUDA, SIMD, Multi-Threading, Data Structures, Algorithms, Linear-Algebra, Machine Learning, AI
 
 // TODO: embed learning gif
