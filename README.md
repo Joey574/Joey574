@@ -41,7 +41,7 @@ The equation for ZH-L16 is as follows:
 * Includes various NN frameworks written from scratch, datasets, and other related projects
 *  **Skills:** C++, CUDA, SIMD, Multi-Threading, Data Structures, Algorithms, Linear-Algebra, Machine Learning, AI
 
-![Mandlebrot Learning](https://github.com/Joey574/MLImageLearning/blob/main/Mandlebrot%20Aproximations/Videos/12secmandlelearning.gif)
+![MandlebrotLearning](https://github.com/Joey574/MLImageLearning/blob/main/Mandlebrot%20Aproximations/Videos/12secmandlelearning.gif)
 
 #### [OpenGL Projects](https://github.com/Joey574/OpenglProjects) | **Various OpenGL Projects**
 * Includes various OpenGL projects
