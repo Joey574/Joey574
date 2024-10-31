@@ -66,3 +66,8 @@ While not really singular projects I ever plan on 'releasing' there are some mor
   * Multi-Threading
   * 2D Games
 * **Skills:** C++, Algorithms, Game Design, SIMD, Multi-Threading, Data Structures
+
+## Find me on
+* **[kaggle.com](https://www.kaggle.com/joeyleesoroka)**
+* **[pwn.college](https://pwn.college/hacker/78956)**
+* **[linkedIn](https://www.linkedin.com/in/joey-soroka-3497b1278/)
