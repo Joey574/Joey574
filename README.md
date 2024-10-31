@@ -70,4 +70,4 @@ While not really singular projects I ever plan on 'releasing' there are some mor
 ## Find me on
 * **[kaggle.com](https://www.kaggle.com/joeyleesoroka)**
 * **[pwn.college](https://pwn.college/hacker/78956)**
-* **[linkedIn](https://www.linkedin.com/in/joey-soroka-3497b1278/)
+* **[linkedIn](https://www.linkedin.com/in/joey-soroka-3497b1278/)**
