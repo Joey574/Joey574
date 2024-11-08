@@ -26,7 +26,7 @@ Computer Science, Bellevue College
 * A simulation written in C++, uses CUDA to handle computations and OpenGL to render to a window
 * **Skills:** C++, OpenGL, CUDA, Data Structures, Algorithms, Physics
 
-![NbodySim](https://github.com/Joey574/NBodySimulation/blob/master/NBodySimulation_CPU/videos/nbodysim5gif.gif)
+![NbodySim](https://github.com/Joey574/Demos/blob/main/NbodySimulation/gifs/nbodysim5gif.gif)
 
 #### [Dive Game Basic Scripting](https://github.com/Joey574/DiveGameBasicScripting) | **Diving Physics Simulation**
 * A simulation in Unity that mimicks real word gas behaviour divers experience while underwater
@@ -41,7 +41,7 @@ The equation for ZH-L16 is as follows:
 * Includes various NN frameworks written from scratch, datasets, and other related projects
 *  **Skills:** C++, CUDA, SIMD, Multi-Threading, Data Structures, Algorithms, Linear-Algebra, Machine Learning, AI
 
-![MandlebrotLearning](https://github.com/Joey574/MLImageLearning/blob/main/Mandlebrot%20Aproximations/Videos/35lossy_mandlebrot_learning_transparency.gif)
+![MandlebrotLearning](https://github.com/Joey574/Demos/blob/main/MachineLearningCpp/gifs/35lossy_mandlebrot_learning_transparency.gif)
 
 #### [OpenGL Projects](https://github.com/Joey574/OpenglProjects) | **Various OpenGL Projects**
 * Includes various OpenGL projects
