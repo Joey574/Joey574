@@ -26,7 +26,7 @@ Computer Science, Bellevue College
 * A simulation written in C++, uses CUDA to handle computations and OpenGL to render to a window
 * **Skills:** C++, OpenGL, CUDA, Data Structures, Algorithms, Physics
 
-![NbodySim](https://github.com/Joey574/Demos/blob/main/NbodySimulation/gifs/nbodysim5gif.gif)
+![NbodySim](https://github.com/Joey574/Demos/blob/main/NbodySimulation/gifs/nbodysim6gif.gif)
 
 #### [Dive Game Basic Scripting](https://github.com/Joey574/DiveGameBasicScripting) | **Diving Physics Simulation**
 * A simulation in Unity that mimicks real word gas behaviour divers experience while underwater
