@@ -9,10 +9,10 @@ Computer Science, Bellevue College
 ### Bellevue College
 
 ## Skills
-* **Languages:** C/C++, CUDA, Python, C#, Java, Js, MASM
-* **Libraries:** OpenGL, Tensorflow, Pandas
+* **Languages:** C/C++, CUDA, Python, C#, Java, Js, asm, Bash
+* **Libraries:** OpenGL, Tensorflow, Pandas, Seaborn, Numpy
 * **Game Engines:** Unity, Unreal
-* **Concepts:** Machine Learning, Data Structures, Algorithms, Game Design
+* **Concepts:** Machine Learning, Data Structures, Algorithms, Game Design, Optimization
 
 ## Projects
 #### [Game Of Life in Unity](https://github.com/Joey574/GameOfLifeInUnity) | **Conways Game of Life Simulation**
@@ -67,7 +67,6 @@ While not really singular projects I ever plan on 'releasing' there are some mor
   * 2D Games
 * **Skills:** C++, Algorithms, Game Design, SIMD, Multi-Threading, Data Structures
 
-## Find me on
+## Other Projects on
 * **[kaggle.com](https://www.kaggle.com/joeyleesoroka)**
 * **[pwn.college](https://pwn.college/hacker/78956)**
-* **[linkedIn](https://www.linkedin.com/in/joey-soroka-3497b1278/)**
