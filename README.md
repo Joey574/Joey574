@@ -9,10 +9,11 @@ Computer Science, Bellevue College
 ### Bellevue College
 
 ## Skills
-* **Languages:** C/C++, CUDA, Python, C#, Java, Js, asm, Bash
+* **Languages:** C/C++, CUDA, Python, C#, Java, Js, asm, Bash, hlsl
 * **Libraries:** OpenGL, Tensorflow, Pandas, Seaborn, Numpy
 * **Game Engines:** Unity, Unreal
-* **Concepts:** Machine Learning, Data Structures, Algorithms, Game Design, Optimization
+* **Concepts:** Machine Learning, Data Structures, Algorithms, Game Design, Optimization, Web Development, Cybersecurity
+* **Other:** Linux
 
 ## Projects
 #### [Game Of Life in Unity](https://github.com/Joey574/GameOfLifeInUnity) | **Conways Game of Life Simulation**
@@ -28,6 +29,11 @@ Computer Science, Bellevue College
 
 ![NbodySim](https://github.com/Joey574/Demos/blob/main/NbodySimulation/gifs/nbodysim6gif.gif)
 
+#### [Messaging-board](https://github.com/Joey574/Messaging-Board) | **Messaging board in asm**
+* A simple messaging board web-server written in asm for linux
+* Implements its own communication protocol, although perhaps in the future I'll make an http complient one
+*  **Skills:** asm, Linux, Web Development, Cybersecurity
+
 #### [Dive Game Basic Scripting](https://github.com/Joey574/DiveGameBasicScripting) | **Diving Physics Simulation**
 * A simulation in Unity that mimicks real word gas behaviour divers experience while underwater
 * Uses the ZH-L16 Algorithm
@@ -38,8 +44,8 @@ The equation for ZH-L16 is as follows:
 **P = Pio + R(t - 1/k) - (Pio - Po - (R/k)) e<sup>-kt</sup>**
 
 #### [Machine-Learning Cpp](https://github.com/Joey574/MachineLearningCpp) | **Various Neural Network Frameworks**
-* Includes various NN frameworks written from scratch, datasets, and other related projects
-*  **Skills:** C++, CUDA, SIMD, Multi-Threading, Data Structures, Algorithms, Linear-Algebra, Machine Learning, AI
+* Includes various NN frameworks, datasets, and other related projects written from scratch
+*  **Skills:** C++, CUDA, SIMD, Multithreading, Data Structures, Algorithms, Linear-Algebra, Machine Learning, AI
 
 ![MandlebrotLearning](https://github.com/Joey574/Demos/blob/main/MachineLearningCpp/gifs/35lossy_mandlebrot_learning_transparency.gif)
 
@@ -47,7 +53,7 @@ The equation for ZH-L16 is as follows:
 * Includes various OpenGL projects
   * 2D Games
   * Realtime Fractal rendering
-*  **Skills:** C++, Algorithms, Game Design, SIMD, Multi-Threading, Linear-Algebra, Math
+*  **Skills:** C++, Algorithms, Game Design, SIMD, Multithreading, Linear-Algebra, Math
 
 // TODO: more gif
 
@@ -57,15 +63,15 @@ While not really singular projects I ever plan on 'releasing' there are some mor
 #### [Learning MASM](https://github.com/Joey574/LearningMASM) | **Various Beginner MASM Projects**
 * Includes various beginner/intermediate MASM projects
 * Most projects are beginner focused, however, intermediate concepts like self-modifying code are also included
-*  **Skills:** MASM
+*  **Skills:** asm
 
 #### [Cpp Advanced Projects](https://github.com/Joey574/Cpp-Advanced-Projects) | **Various C++ Projects**
 * This is more of a general repo containing
   * Sorting Algorithms
-  * Matrix multiplication
-  * Multi-Threading
+  * Matrix Multiplication
+  * Multithreading
   * 2D Games
-* **Skills:** C++, Algorithms, Game Design, SIMD, Multi-Threading, Data Structures
+* **Skills:** C++, Algorithms, Game Design, SIMD, Multithreading, Data Structures
 
 ## Other Projects on
 * **[kaggle.com](https://www.kaggle.com/joeyleesoroka)**
