@@ -41,7 +41,7 @@ sequenceDiagram
     User->>WebServer: p64-byte auth keyThis is my first post!
     WebServer-->>User: Action completed succesfully
 ```
-*There's much more a user can do, just is just an example*
+*There's much more a user can do, this is just an example*
 
 #### [Dive Game Basic Scripting](https://github.com/Joey574/DiveGameBasicScripting) | **Diving Physics Simulation**
 * A simulation in Unity that mimicks real word gas behaviour divers experience while underwater
