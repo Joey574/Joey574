@@ -82,6 +82,6 @@ While not really singular projects I ever plan on 'releasing' there are some mor
   * 2D Games
 * **Skills:** C++, Algorithms, Game Design, SIMD, Multithreading, Data Structures
 
-## Other Projects on
+## More on
 * **[kaggle.com](https://www.kaggle.com/joeyleesoroka)**
 * **[pwn.college](https://pwn.college/hacker/78956)**
