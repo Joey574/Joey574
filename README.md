@@ -34,6 +34,15 @@ Computer Science, Bellevue College
 * Implements its own communication protocol, although perhaps in the future I'll make an http complient one
 *  **Skills:** asm, Linux, Web Development, Cybersecurity
 
+``` mermaid
+sequenceDiagram
+    User->>WebServer: sJoey574#semi;abcd
+    WebServer-->>User: 64-byte auth key
+    User->>WebServer: p64-byte auth keyThis is my first post!
+    WebServer-->>User: Action completed succesfully
+```
+*There's much more a user can do, just is just an example*
+
 #### [Dive Game Basic Scripting](https://github.com/Joey574/DiveGameBasicScripting) | **Diving Physics Simulation**
 * A simulation in Unity that mimicks real word gas behaviour divers experience while underwater
 * Uses the ZH-L16 Algorithm
