@@ -47,10 +47,6 @@ sequenceDiagram
 * Uses the ZH-L16 Algorithm
 * **Skills:** C#, Unity, Algorithms, Physics
 
-The equation for ZH-L16 is as follows:
-<br>
-**P = Pio + R(t - 1/k) - (Pio - Po - (R/k)) e<sup>-kt</sup>**
-
 #### [Machine-Learning Cpp](https://github.com/Joey574/MachineLearningCpp) | **Various Neural Network Frameworks**
 * Includes various NN frameworks, datasets, and other related projects written from scratch
 *  **Skills:** C++, CUDA, SIMD, Multithreading, Data Structures, Algorithms, Linear-Algebra, Machine Learning, AI
