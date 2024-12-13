@@ -4,7 +4,6 @@ Computer Science, Bellevue College
 1-(425)-996-2135 | joeysoroka@outlook.com
 
 ## Education
-### Cedarcrest High School
 
 ### Bellevue College
 
