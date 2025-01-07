@@ -64,6 +64,15 @@ sequenceDiagram
 ## Notable Repos
 While not really singular projects I ever plan on 'releasing' there are some more repos I believe demonstrate my skills / ability well.
 
+#### [CLT](https://github.com/Joey574/CLT) | **Various Command Line Tools in C**
+* Various projects in C such as
+    * Recursive directory search utility to sum lines of code for a github profile
+    * P2P encrypted messaging app
+    * Vector utility
+    * Tic-Tac-Toe Game
+    * Neural Network (wip)
+* **Skills:** C, Networking, Cryptography, Data Structures, Algorithms, Recursion, Math, Linear-Algerbra 
+
 #### [Learning MASM](https://github.com/Joey574/LearningMASM) | **Various Beginner MASM Projects**
 * Includes various beginner/intermediate MASM projects
 * Most projects are beginner focused, however, intermediate concepts like self-modifying code are also included
