@@ -10,7 +10,7 @@ Computer Science, Bellevue College
 * **Languages:** C/C++, CUDA, Python, C#, Java, Js, asm, Bash, hlsl
 * **Libraries:** OpenGL, Tensorflow, Pandas, Seaborn, Numpy
 * **Game Engines:** Unity, Unreal
-* **Concepts:** Machine Learning, Data Structures, Algorithms, Game Design, Optimization, Web Development, Cybersecurity
+* **Concepts:** Machine Learning, Data Structures, Algorithms, Game Design, Optimization, Web Development, Cybersecurity, Networking
 * **Other:** Linux
 
 ## Projects
@@ -19,15 +19,17 @@ Computer Science, Bellevue College
 * Includes various other spinoffs of conway's game of life, like wireworld, highlife, and many others
 * **Skills:** C#, hlsl, Unity, Game Design, Data Structes, Algorithms
 
-// TODO: attach gif
-
 #### [N-Body Simulation](https://github.com/Joey574/NBodySimulation) | **Physics Body Simulation**
 * A simulation written in C++, uses CUDA to handle computations and OpenGL to render to a window
 * **Skills:** C++, OpenGL, CUDA, Data Structures, Algorithms, Physics
 
 ![NbodySim](https://github.com/Joey574/Demos/blob/main/NbodySimulation/gifs/nbodysim6gif.gif)
 
-#### [Messaging-board](https://github.com/Joey574/Messaging-Board) | **Messaging board in asm**
+#### [Lighthouse](https://github.com/Joey574/lighthouse) | **Port Scanning Utility**
+* A port scanner written in C++, wip, but plans to implement native tor support
+* **Skills:** C++, Networking, Cybersecurity
+
+#### [Messaging-board](https://github.com/Joey574/Messaging-Board) | **Messaging Board in asm**
 * A simple messaging board web-server written in asm for linux
 * Implements its own communication protocol, although perhaps in the future I'll make an http complient one
 *  **Skills:** asm, Linux, Web Development, Cybersecurity
@@ -52,25 +54,34 @@ sequenceDiagram
 
 ![MandlebrotLearning](https://github.com/Joey574/Demos/blob/main/MachineLearningCpp/gifs/35lossy_mandlebrot_learning_transparency.gif)
 
+#### [CLT](https://github.com/Joey574/CLT) | **Various Command Line Tools in C/C++**
+* Various projects in C/C++ such as
+    * Recursive directory search utility to sum lines of code for a github profile
+    * P2P encrypted messaging app
+    * Vector utility
+    * Tic-Tac-Toe Game
+    * Neural Network utility
+* **Skills:** C, C++, Networking, Cryptography, Data Structures, Algorithms, Recursion, Math, Linear-Algerbra 
+
+## Notable Repos
+While not really *projects* in the sense of the word, there are some repos I still believe demonstrate my skills / ability well.
+
 #### [OpenGL Projects](https://github.com/Joey574/OpenglProjects) | **Various OpenGL Projects**
 * Includes various OpenGL projects
   * 2D Games
   * Realtime Fractal rendering
 *  **Skills:** C++, Algorithms, Game Design, SIMD, Multithreading, Linear-Algebra, Math
 
-// TODO: more gif
+#### [Networking](https://github.com/Joey574/Networking) | **Various Networking Projects**
+* Various networking projects, written in C++, main focus being on C2 servers
+* **Skills:** C++, Networking, Cybersecurity
 
-## Notable Repos
-While not really singular projects I ever plan on 'releasing' there are some more repos I believe demonstrate my skills / ability well.
-
-#### [CLT](https://github.com/Joey574/CLT) | **Various Command Line Tools in C**
-* Various projects in C such as
-    * Recursive directory search utility to sum lines of code for a github profile
-    * P2P encrypted messaging app
-    * Vector utility
-    * Tic-Tac-Toe Game
-    * Neural Network (wip)
-* **Skills:** C, Networking, Cryptography, Data Structures, Algorithms, Recursion, Math, Linear-Algerbra 
+#### [DataStructures](https://github.com/Joey574/DataStructures) | **Various Data Structures**
+* Contains various data structures written in C++
+  * Array
+  * Stack
+  * Map
+* **Skills:** C++, Data Structures
 
 #### [Learning MASM](https://github.com/Joey574/LearningMASM) | **Various Beginner MASM Projects**
 * Includes various beginner/intermediate MASM projects
