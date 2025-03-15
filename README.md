@@ -7,17 +7,18 @@ Computer Science, Bellevue College
 ### Bellevue College
 
 ## Skills
-* **Languages:** C/C++, CUDA, Python, C#, Java, Js, asm, Bash, hlsl
-* **Libraries:** OpenGL, Tensorflow, Pandas, Seaborn, Numpy
+* **Languages:** C/C++, CUDA, Python, C#, Java, Js, asm, Bash, hlsl, golang
+* **Libraries:** OpenGL, Tensorflow
+* **Tools:** GoBuster, gcc, g++, Amass
 * **Game Engines:** Unity, Unreal
 * **Concepts:** Machine Learning, Data Structures, Algorithms, Game Design, Optimization, Web Development, Cybersecurity, Networking
-* **Other:** Linux
 
 ## Projects
-#### [Game Of Life in Unity](https://github.com/Joey574/GameOfLifeInUnity) | **Conways Game of Life Simulation**
-* A game written in C# and making use of hlsl in Unity to simulate conway's game of life
-* Includes various other spinoffs of conway's game of life, like wireworld, highlife, and many others
-* **Skills:** C#, hlsl, Unity, Game Design, Data Structes, Algorithms
+#### [Machine-Learning Cpp](https://github.com/Joey574/MachineLearningCpp) | **Various Neural Network Frameworks**
+* Includes various NN frameworks, datasets, and other related projects written from scratch
+*  **Skills:** C++, CUDA, SIMD, Multithreading, Data Structures, Algorithms, Linear-Algebra, Machine Learning, AI
+
+![MandlebrotLearning](https://github.com/Joey574/Demos/blob/main/MachineLearningCpp/gifs/35lossy_mandlebrot_learning_transparency.gif)
 
 #### [N-Body Simulation](https://github.com/Joey574/NBodySimulation) | **Physics Body Simulation**
 * A simulation written in C++, uses CUDA to handle computations and OpenGL to render to a window
@@ -25,9 +26,12 @@ Computer Science, Bellevue College
 
 ![NbodySim](https://github.com/Joey574/Demos/blob/main/NbodySimulation/gifs/nbodysim6gif.gif)
 
-#### [Lighthouse](https://github.com/Joey574/lighthouse) | **Port Scanning Utility**
-* A port scanner written in C++, wip, but plans to implement native tor support
-* **Skills:** C++, Networking, Cybersecurity
+#### [Game Of Life in Unity](https://github.com/Joey574/GameOfLifeInUnity) | **Conways Game of Life Simulation**
+* A game written in C# and making use of hlsl in Unity to simulate conway's game of life
+* Includes various other spinoffs of conway's game of life, like wireworld, highlife, and many others
+* **Skills:** C#, hlsl, Unity, Game Design, Data Structes, Algorithms
+
+
 
 #### [Messaging-board](https://github.com/Joey574/Messaging-Board) | **Messaging Board in asm**
 * A simple messaging board web-server written in asm for linux
@@ -48,12 +52,6 @@ sequenceDiagram
 * Uses the ZH-L16 Algorithm
 * **Skills:** C#, Unity, Algorithms, Physics
 
-#### [Machine-Learning Cpp](https://github.com/Joey574/MachineLearningCpp) | **Various Neural Network Frameworks**
-* Includes various NN frameworks, datasets, and other related projects written from scratch
-*  **Skills:** C++, CUDA, SIMD, Multithreading, Data Structures, Algorithms, Linear-Algebra, Machine Learning, AI
-
-![MandlebrotLearning](https://github.com/Joey574/Demos/blob/main/MachineLearningCpp/gifs/35lossy_mandlebrot_learning_transparency.gif)
-
 #### [CLT](https://github.com/Joey574/CLT) | **Various Command Line Tools in C/C++**
 * Various projects in C/C++ such as
     * Recursive directory search utility to sum lines of code for a github profile
@@ -62,6 +60,21 @@ sequenceDiagram
     * Tic-Tac-Toe Game
     * Neural Network utility
 * **Skills:** C, C++, Networking, Cryptography, Data Structures, Algorithms, Recursion, Math, Linear-Algerbra 
+
+## Private Repos
+Currently private repos on my profile I would be happy to discuss parts of and believe demonstrate my skills exceptionally
+
+#### [Lighthouse](https://github.com/Joey574/lighthouse) | **Port Scanning Utility**
+* A port scanner written in C++
+* **Skills:** C++, Networking, Cybersecurity
+
+#### [ReconSuite](https://github.com/Joey574/ReconSuite) | **Bug Bounty Recon Suite**
+* Currently contains 3 main applications
+    * Control Panel
+    * Distributed Scanner
+    * Deep Search
+* Uses telegram for C2, distributes tasks to various worker computers, uses various tools for subdomain enumeration
+* **Skills:** Golang, Multithreading, Networking, Cybersecurity, Crytpography 
 
 ## Notable Repos
 While not really *projects* in the sense of the word, there are some repos I still believe demonstrate my skills / ability well.
