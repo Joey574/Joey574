@@ -30,7 +30,7 @@ Computer Science, Bellevue College
 * An online and offline renderer for GIS datasets, the website can be found [here](https://topoview.org)
 * **Skills:** GoLang, GIS, Web, GDAL
 
-![Topoview](https://github.com/Joey574/topography/renders/2k_sidelight_sample_2.png)
+![Topoview](https://github.com/Joey574/topography/blob/main/renders/2k_sidelight_sample_2.png)
 
 #### [Game Of Life in Unity](https://github.com/Joey574/GameOfLifeInUnity) | **Conways Game of Life Simulation**
 * A game written in C# and making use of hlsl in Unity to simulate conway's game of life
