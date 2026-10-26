@@ -14,11 +14,11 @@ Computer Science, Bellevue College
 * **Concepts:** Machine Learning, Data Structures, Algorithms, Game Design, Optimization, Web Development, Cybersecurity, Networking
 
 ## Projects
-#### [Machine-Learning Cpp](https://github.com/Joey574/MachineLearningCpp) | **Various Neural Network Frameworks**
-* Includes various NN frameworks, datasets, and other related projects written from scratch
+#### [MLEngine](https://github.com/Joey574/MLEngine) | **Neural Network Framework / Engine**
+* Custom Neural Network engine written to be highly customizable and performant
 *  **Skills:** C++, CUDA, SIMD, Multithreading, Data Structures, Algorithms, Linear-Algebra, Machine Learning, AI
 
-![MandlebrotLearning](https://github.com/Joey574/Demos/blob/main/MachineLearningCpp/gifs/35lossy_mandlebrot_learning_transparency.gif)
+![MandlebrotLearning](https://github.com/Joey574/MLEngine/blob/stable/preview/output.mp4)
 
 #### [N-Body Simulation](https://github.com/Joey574/NBodySimulation) | **Physics Body Simulation**
 * A simulation written in C++, uses CUDA to handle computations and OpenGL to render to a window
