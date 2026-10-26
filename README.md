@@ -18,7 +18,7 @@ Computer Science, Bellevue College
 * Custom Neural Network engine written to be highly customizable and performant
 *  **Skills:** C++, CUDA, SIMD, Multithreading, Data Structures, Algorithms, Linear-Algebra, Machine Learning, AI
 
-![MandlebrotLearning](https://github.com/Joey574/MLEngine/blob/stable/preview/output.mp4)
+![MandlebrotLearning](https://github.com/Joey574/MLEngine/blob/stable/preview/output.gif)
 
 #### [N-Body Simulation](https://github.com/Joey574/NBodySimulation) | **Physics Body Simulation**
 * A simulation written in C++, uses CUDA to handle computations and OpenGL to render to a window
